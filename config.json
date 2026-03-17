@@ -1,0 +1,5 @@
+{
+  "api_url": "https://api1.site.com",
+  "fallback_api": "https://api2.site.com,https://api3.site.com",
+  "config_version": 2
+}
